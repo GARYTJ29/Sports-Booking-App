@@ -1,0 +1,13 @@
+
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+function App() {
+  return (
+    <div className="App mx-auto mt-50">
+      <h1>Hello</h1>
+    </div>
+  );
+}
+
+export default App;
